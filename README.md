@@ -5,7 +5,7 @@ It gives:
 1) Link of the post
 2) Links Contained inside the post(if any)
 3) Image Url(if any).
-4) Number of people commented on the post.
+4) Number of comments on the post.
 5) Number of people who reacted to the post.
 6) Video Url(if any)
 and stores all of them in a json file.
